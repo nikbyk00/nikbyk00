@@ -11,7 +11,7 @@
 
 ---
 
-- :mailbox: Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nb85294@gmail.com)
+- :mailbox: Как со мной связаться:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nb85294@gmail.com)
 
 ---
 
