@@ -9,6 +9,7 @@
 Подробнее узнать обо мне вы можете перейдя по ссылке ниже.  
 Моё резюме: <https://nikbyk00.github.io/resume/>
 
+---
 
 - :mailbox: Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nb85294@gmail.com)
 
